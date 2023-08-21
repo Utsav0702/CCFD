@@ -11,7 +11,7 @@ The heart of this project is the fraud detection model. Leveraging machine learn
 ## Dataset
 
 Dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection
-To train and test the model, we use a dataset containing a collection of credit card transactions. Each transaction in the dataset is labeled as either legitimate or fraudulent. By feeding this data into the model, it learns to generalize and identify key indicators of fraudulent behavior.
+To train and test the model, I Have used dataset containing a collection of credit card transactions. Each transaction in the dataset is labeled as either legitimate or fraudulent. By feeding this data into the model, it learns to generalize and identify key indicators of fraudulent behavior.
 
 ## Actions performed
 
